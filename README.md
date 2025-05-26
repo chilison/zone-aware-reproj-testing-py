@@ -14,5 +14,5 @@ This repository contains code for reproducing experiments conducted for [zone-aw
 4. **Modeling**  
    Simulating how the full projection system works to test the logic and finalize the projection selection.
 
-5. **GeoTIFF preparation**
+extra: **GeoTIFF preparation**
    Preparing GeoTIFF testing data by automatically splitting and reprojecting to the according UTM zone.  
